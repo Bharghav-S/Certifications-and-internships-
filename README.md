@@ -13,8 +13,8 @@ My NAT N5 certificate is provided below as supporting documentation.
 
 Internship Experience
 
-I completed an internship at Blastlearning as a course developer and a frontend team member.
+I completed an internship at **Blastlearning** as a **course developer and a frontend team member**.
 
 The internship agreement is provided below as supporting documentation.
 
-[View Internship Agreement](./Bhargav%20internship%20agreement.pdf)
+[View Internship Agreement](./Bharghav%20internship%20agreement.pdf)
